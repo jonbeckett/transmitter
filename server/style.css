@@ -1,0 +1,40 @@
+H1,H2 {padding:0px;margin:0px;}
+    
+.info TH {font-weight:300; font-size:1em;padding:3px 5px 3px 0px;}
+.info TD {font-weight:300; font-size:1em;padding:3px 5px 3px 5px;}
+
+.l {text-align:left;}
+.c {text-align:center;}
+.r {text-align:right;}
+.n {color:#555;padding-left:20px;}
+A {text-decoration:none;color:#225588;}
+
+TR {border-bottom:1px solid #fff;}
+
+.online {color:#000;}
+.offline TD {color:#999;}
+.offline TD A {color:#999;}
+.offline TD .n {color:#999;}
+
+.upgrade {color:#753 !important;}
+
+#map {
+  height: 600px;
+  width: 100%;
+}
+
+.page {
+  max-width:960px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#info {display:none;}
+
+#aircraft_table TH {font-size:1em;}
+#aircraft_table TD {font-size:1em;font-weight:300}
+#aircraft_table TD A {font-size:1em;font-weight:700}
+
+#aircraft_table TH A {color:#557799;}
+#aircraft_table TH A:hover {color:#0000aa;text-decoration:underline;}
+
